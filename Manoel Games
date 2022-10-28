@@ -1,0 +1,75 @@
+<html>	
+	<head>
+<body> <center>
+<audio controls="controls" id="audio">
+		  <source src="audio1.mp3" type="audio/mpeg">
+		  Seu navegador não tem suporte a Tag Audio.
+		</audio>
+<style>
+body{background-color:#A68064;}
+</style>
+
+<center>
+<script>
+function funcao1()
+{
+alert("Fala meu povo e minhas povas!!");
+}
+</script>
+<input type="button" onclick="funcao1()" value="CLIQUE AQUI PARA DAR OI" />
+</center>
+
+<center>
+	<H1> <i> <u> 
+
+<font color="Black";>
+<font face="Helvetica";>
+ FANPAGE PARA MANOEL GAMES <br> <P> by GRS
+
+</u> </i> </H1> 
+</center>
+
+<center>
+<p>
+<img src="https://pbs.twimg.com/media/Fe_VMgtXEAMm0Ao?format=jpg&name=large"  height="400" width="400">
+</p>
+</center>
+<br/> <center>
+
+<p><a href="https://youtu.be/2P_esm8cNgU"> Hino do Brasil </a></p>
+
+<section id="contato">
+    <h2><i> Eu vou deixar de ser besta e vou arrumar uma mulher pra mim, só vejo os outros com
+a mulher nos braços fazendo assim </br> aiin uii </i> </h2>
+   <center> <p> Todo dia eu viajo para o colégio </br>
+Com uma caneta azul e uma caneta amarela </br>
+Eu perdi minha caneta e eu peço, por favor</br>
+Quem encontrou, me entrega ela </br> </p>
+</center>
+    <form method="get">
+        <div>
+            <span>Fala comigo:</span>
+            <input type="text" name="Fala comigo">
+        </div>
+        <div>
+            <span> Manda pix.:</span>
+            <textarea></textarea>
+        </div>
+       
+    </form>
+
+	<script>
+function funcao2()
+{
+alert("Fica com Deuso meu povo!!!");
+}
+</script>
+<input type="button" onclick="funcao2()" value="Clique aqui para dar tchau" />
+</center>
+
+</section> </center>
+
+
+</body>
+	</head>
+</html>
